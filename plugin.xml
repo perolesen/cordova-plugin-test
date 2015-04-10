@@ -14,6 +14,10 @@ Unless required by applicable law or agreed to in writing, software distributed 
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <name>Test plugin</name>
+    <license>Apache 2.0</license>
+    <description>
+        This plugin demonstrates experience of adding new plugin to your Apache Cordova Application.
+    </description>
 
     <asset src="www/testPlugin.css" target="testPlugin.css" />
 
