@@ -11,7 +11,7 @@ var badge = document.createElement('div');
 badge.className = "test-plugin-badge";
 
 var badgeText = document.createElement('span');
-badgeText.innerText = "Plugin " + module.id + " has been installed";
+badgeText.innerText = "Plugin com.msopentech.test-plugin has been installed";
 
 var badgeButton = document.createElement('button');
 badgeButton.className = "test-plugin-dismiss-button";
